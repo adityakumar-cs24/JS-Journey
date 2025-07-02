@@ -46,5 +46,7 @@ const myFunction = function() {
 }
 
 console.log(typeof score); // number
+console.log(typeof scoreValue); // number
+console.log(typeof isLoggedIn); // boolean
 
 // https://262.ecma-international.org/5.1/#sec-11.4.3
