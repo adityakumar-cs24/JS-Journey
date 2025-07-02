@@ -1,12 +1,12 @@
 let score = "33abc"
 
-// console.log(typeof score)
-// console.log(typeof (score))
+console.log(typeof score)
+console.log(typeof (score))
 
 let valueInnumber = Number(score) 
 
-// console.log(typeof valueInnumber)
-// console.log(valueInnumber)
+console.log(typeof valueInnumber)
+console.log(valueInnumber)
 
 // "33" => 33
 // "33abc" => NaN
@@ -35,19 +35,19 @@ let value = 3
 let negValue = -value
 console.log(negValue) // -3
 
-// console.log(5 + 9) // 14 (addition of 5 and 9)
-// console.log(8 - 5) // 3 (subtraction of 5 from 8)
-// console.log(6 * 3) // 18 (multiplication of 6 and 3)
-// console.log(8 / 2) // 4 (qutient of 8 divided by 2)
-// console.log(5 % 3) // 2 (remainder of 5 divided by 3)
-// console.log(2 ** 4) // 2 raised to the power of 4 = 16
-// console.log(2 ** 3 ** 2) // 2 ** 9 = 512
+console.log(5 + 9) // 14 (addition of 5 and 9)
+console.log(8 - 5) // 3 (subtraction of 5 from 8)
+console.log(6 * 3) // 18 (multiplication of 6 and 3)
+console.log(8 / 2) // 4 (qutient of 8 divided by 2)
+console.log(5 % 3) // 2 (remainder of 5 divided by 3)
+console.log(2 ** 4) // 2 raised to the power of 4 = 16
+console.log(2 ** 3 ** 2) // 2 ** 9 = 512
 
 // console.log((5 + 3) * 2 % 4)
 
-// console.log(+true)
+console.log(+true)
 // // console.log(true+) we can not use it like this 
-// console.log(+"")
+console.log(+"")
 
 let num1 , num2, num3
 num1 = num2 = num3 = 5 + 5
