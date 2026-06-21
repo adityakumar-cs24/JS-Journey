@@ -8,8 +8,8 @@
 // console.log(12 != 10)
 
 
-// console.log("5" > 2)
-// console.log("03" > 1)
+console.log("5" > 2)
+console.log("03" > 1)
 
 
 

@@ -33,7 +33,7 @@ const user = {
     name: "John Doe",
     age: 30,
     isActive: true,
-    email: "abc@gmail.com",
+    email: "abc@gmail.com",   
     address: {
         city: "New York",
         state: "NY"
