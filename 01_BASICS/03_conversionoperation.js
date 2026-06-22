@@ -49,6 +49,18 @@ console.log(+true)
 // // console.log(true+) we can not use it like this 
 console.log(+"")
 
+let str1 = "hello"
+let str2 = " hitesh"
+
+let str3 = str1 + str2
+console.log(str3);
+console.log("1" + 2);
+console.log(1 + "2");
+console.log("1" + 2 + 2);
+console.log(1 + 2 + "2");
+console.log( (3 + 4) * 5 % 3);
+
+
 let num1 , num2, num3
 num1 = num2 = num3 = 5 + 5
 

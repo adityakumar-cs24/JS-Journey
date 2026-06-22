@@ -18,7 +18,7 @@ console.log(name.__proto__) // String.prototype
 // String methods
 console.log(name.charAt(0)) // J
 console.log(name.indexOf("D")) // 5
-console.log(name.lastIndexOf("o")) // 7
+console.log(name.lastIndexOf("o")) // 6
 console.log(name.length) // 8
 console.log(name.toUpperCase()) // JOHN DOE
 console.log(name.toLowerCase()) // john doe
